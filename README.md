@@ -31,7 +31,7 @@ A simple Python project developed as part of the Oasis Infobyte Python Programmi
 ## Project Structure
 
 - `password_generator.py` — Main program.
-- `requirements.txt` — Notes that no external packages are required.
+- `requirements.txt` 
 
 ## Internship
 
